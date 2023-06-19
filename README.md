@@ -1,7 +1,7 @@
 # Support recovery in total (gradient) variation regularization
 
 <p align="center">
-  <img src="pre_certif.png">
+  <img src="picture.png">
 </p>
 
 This notebook allows to reproduce the experiments presented in the Section 5.3.2 of
