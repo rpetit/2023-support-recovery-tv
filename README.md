@@ -6,4 +6,4 @@
 
 This notebook allows to reproduce the experiments presented in the Section 5.3.2 of
 
-Y. De Castro, V. Duval, R. Petit, exact recovery of the support of piecewise constant images via total variation regularization, preprint, 2023
+[De Castro, Y., Duval, V., & Petit, R. (2024). Exact recovery of the support of piecewise constant images via total variation regularization. Inverse Problems.](https://arxiv.org/abs/2307.03709)
